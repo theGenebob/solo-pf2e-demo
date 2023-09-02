@@ -36,7 +36,7 @@
       "flags": {}
     }
   ]
-  "url": "https://github.com/theGenebob/solo-pf2e-demo/tree/main/solo-pf2e-demo"
+  "url": "https://github.com/theGenebob/solo-pf2e-demo/tree/main/solo-pf2e-demo",
   "manifest": "https://github.com/theGenebob/solo-pf2e-demo/releases/download/1.0.0/module.json",
   "download": "https://github.com/theGenebob/solo-pf2e-demo/releases/download/1.0.0/solo-pf2e-demo.zip"
 }
