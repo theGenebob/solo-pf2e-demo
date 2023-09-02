@@ -1,0 +1,39 @@
+{
+  "id": "solo-pf2e-demo",
+  "title": "Solo Pf2e Demo",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Solo Pf2e Adventure Demo",
+  "authors": [
+    {
+      "name": "Genebob",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "bandits-of-riverwatch-demo",
+      "label": "Bandits of Riverwatch Demo",
+      "path": "packs/bandits-of-riverwatch-demo",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
